@@ -52,6 +52,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | Final Cut Pro | [Shotcut](https://shotcut.org/), [Olive](https://olivevideoeditor.org/) |
 | Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/) |
 | Opus Clip | [Clips Kitty](https://github.com/ColinGPT9/clips-studio) |
+| DaVinci Resolve | [Kinoklip](https://github.com/SeniorMatt/kinoklip) |
 
 ## Productivity
 
