@@ -56,7 +56,6 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | After Effects | [EffectCraft](https://getartcraft.com/apps/effectcraft), [Natron](https://natrongithub.github.io/) |
 | Adobe Animate | [AniCraft](https://getartcraft.com/apps/anicraft), [OpenToonz](https://opentoonz.github.io/) |
 | Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/), [SoundCraft](https://getartcraft.com/apps/soundcraft) |
-| Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/) |
 | Opus Clip | [Clips Kitty](https://github.com/ColinGPT9/clips-studio) |
 | DaVinci Resolve | [Kinoklip](https://github.com/SeniorMatt/kinoklip) |
 
