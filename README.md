@@ -53,9 +53,15 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | Camtasia | [OBS Studio](https://obsproject.com/) |
 | Premiere Pro | [Kdenlive](https://kdenlive.org/), [OpenShot](https://openshot.org/), [FilmCraft](https://getartcraft.com/apps/filmcraft) |
 | Final Cut Pro | [Shotcut](https://shotcut.org/), [Olive](https://olivevideoeditor.org/) |
+<<<<<<< HEAD
 | After Effects | [EffectCraft](https://getartcraft.com/apps/effectcraft), [Natron](https://natrongithub.github.io/) |
 | Adobe Animate | [AniCraft](https://getartcraft.com/apps/anicraft), [OpenToonz](https://opentoonz.github.io/) |
 | Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/), [SoundCraft](https://getartcraft.com/apps/soundcraft) |
+=======
+| Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/) |
+| Opus Clip | [Clips Kitty](https://github.com/ColinGPT9/clips-studio) |
+| DaVinci Resolve | [Kinoklip](https://github.com/SeniorMatt/kinoklip) |
+>>>>>>> 27b91f573cdd94cd2cbe4631513cae9669388446
 
 ## Productivity
 
