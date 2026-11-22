@@ -28,34 +28,43 @@ Discover open-source projects that replicate, replace, or provide similar functi
 
 | Commercial Software | Open-source Alternative |
 |---|---|
-| Photoshop | [GIMP](https://www.gimp.org/), [ArtCraft](https://getartcraft.com/), [Krita](https://krita.org/) |
-| Illustrator | [Inkscape](https://inkscape.org/) |
-| Figma | [Penpot](https://penpot.app/) |
+| Photoshop | [GIMP](https://www.gimp.org/), [PhotoCraft](https://getartcraft.com/apps/photocraft), [Krita](https://krita.org/) |
+| Illustrator | [Inkscape](https://inkscape.org/), [VectorCraft](https://getartcraft.com/apps/vectorcraft) |
+| Figma | [Penpot](https://penpot.app/), [FigCraft](https://getartcraft.com/apps/figcraft) |
 | Canva | [Tldraw](https://tldraw.com/) |
-| Lightroom | [Darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/) |
+| Lightroom | [Darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/), [LightCraft](https://getartcraft.com/apps/lightcraft) |
+| InDesign | [DesignCraft](https://getartcraft.com/apps/designcraft), [Scribus](https://www.scribus.net/) |
 
 ## 3D Modeling & CAD
 
 | Commercial Software | Open-source Alternative |
 |---|---|
 | SketchUp | [BenchUp3D](https://github.com/BenchUp3D/editor) |
-| AutoCAD | [LibreCAD](https://librecad.org/), [QCAD](https://qcad.org/) |
-| SolidWorks | [FreeCAD](https://www.freecad.org/) |
+| AutoCAD | [LibreCAD](https://librecad.org/), [QCAD](https://qcad.org/), [CADCraft](https://getartcraft.com/apps/cadcraft) |
+| SolidWorks | [FreeCAD](https://www.freecad.org/), [SolidCraft](https://github.com/tangency-labs/solidcraft) |
 | 3ds Max / Maya | [Blender](https://www.blender.org/) |
+| Substance 3D Painter | [TextureCraft](https://getartcraft.com/apps/texturecraft), [ArmorPaint](https://armorpaint.org/) |
+| Substance 3D Designer | [MaterialCraft](https://getartcraft.com/apps/materialcraft), [ArmorLab](https://armorlab.org/) |
 
 ## Video & Audio
 
 | Commercial Software | Open-source Alternative |
 |---|---|
 | Camtasia | [OBS Studio](https://obsproject.com/) |
-| Premiere Pro | [Kdenlive](https://kdenlive.org/), [OpenShot](https://openshot.org/) |
+| Premiere Pro | [Kdenlive](https://kdenlive.org/), [OpenShot](https://openshot.org/), [FilmCraft](https://getartcraft.com/apps/filmcraft) |
 | Final Cut Pro | [Shotcut](https://shotcut.org/), [Olive](https://olivevideoeditor.org/) |
-| Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/) |
+| After Effects | [EffectCraft](https://getartcraft.com/apps/effectcraft), [Natron](https://natrongithub.github.io/) |
+| Adobe Animate | [AniCraft](https://getartcraft.com/apps/anicraft), [OpenToonz](https://opentoonz.github.io/) |
+| Audition | [Audacity](https://www.audacityteam.org/), [Ardour](https://ardour.org/), [SoundCraft](https://getartcraft.com/apps/soundcraft) |
 
 ## Productivity
 
 | Commercial Software | Open-source Alternative |
 |---|---|
+| Microsoft Word | [WordCraft](https://getartcraft.com/apps/wordcraft), [LibreOffice Writer](https://www.libreoffice.org/) |
+| Microsoft Excel | [GridCraft](https://getartcraft.com/apps/gridcraft), [LibreOffice Calc](https://www.libreoffice.org/) |
+| PowerPoint | [DeckCraft](https://getartcraft.com/apps/deckcraft), [LibreOffice Impress](https://www.libreoffice.org/) |
+| Adobe Acrobat | [PdfCraft](https://getartcraft.com/apps/pdfcraft) |
 | Notion | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy), [AFFiNE](https://affine.pro/), [Anytype](https://anytype.io/) |
 | Evernote | [Joplin](https://github.com/laurent22/joplin), [Logseq](https://logseq.com/) |
 | Miro | [Excalidraw](https://github.com/excalidraw/excalidraw), [Tldraw](https://tldraw.com/) |
@@ -111,6 +120,7 @@ Discover open-source projects that replicate, replace, or provide similar functi
 | DocuSign | [Documenso](https://github.com/documenso/documenso) |
 | Zendesk | [FreeScout](https://github.com/freescout-helpdesk/freescout) |
 | Slack | [Mattermost](https://github.com/mattermost/mattermost), [Zulip](https://zulip.com/) |
+| Outlook | [MailCraft](https://mailcraft.work), [Thunderbird](https://www.thunderbird.net/) |
 
 ## Analytics
 
